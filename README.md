@@ -1,6 +1,9 @@
 ## Estudante de programação e tecnologia!
 
-Atualmente estou aprendendo: Java e Banco De Dados.
+- 🔭 Atualmente Cursando Ciencias da Computação.
+- 🌱 Estudando Java e Banco de Dados.
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
