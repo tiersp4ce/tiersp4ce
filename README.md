@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente Cursando Ciencias da Computação.
 - 🌱 Estudando Python e Banco de Dados.
-- 📚 Interesse em Cibersegurança.
+- 📚 Sempre Estudando um Pouco de Tudo.
 
 ##
 
