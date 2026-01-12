@@ -20,6 +20,6 @@ Busco minha primeira oportunidade como **Estagiário de Desenvolvimento Back-end
 
 ---
 
-### 📫 Como me encontrar:
-* **LinkedIn:** [Henrique Hemã Araujo Oliveira]
-* **Email:** [araujohema@hotmail.com]
+### 📫 Como me encontrar
+* **LinkedIn:** Henrique Hemã Araujo Oliveira
+* **Email:** araujohema@hotmail.com
